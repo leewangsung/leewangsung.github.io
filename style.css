@@ -8,6 +8,6 @@ a[href$="abc.com"] {
   color: pink;
 }
 nav a:nth-child(1) {
-  background: red;
+  background-color: red;
   color: white;
 }
