@@ -7,3 +7,7 @@ a[href^="http:"] {
 a[href$="abc.com"] {
   color: pink;
 }
+nav a:nth-child(1) {
+  background: red;
+  color: white;
+}
