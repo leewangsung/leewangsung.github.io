@@ -1,3 +1,9 @@
+a[href*="github"] {
+  background-color: #d6f0ff; /* 연한 하늘색 */
+}
 a[href^="http:"] {
   background-color: yellow;
+}
+a[href$="abc.com"] {
+  color: pink;
 }
