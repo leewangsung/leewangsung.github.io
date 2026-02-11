@@ -14,3 +14,8 @@ nav > a:nth-of-type(1) {
 th{
   background-color:#ddd;
 }
+#py {
+  background-color: red;
+  color: white;
+  padding: 4px 8px;
+}
